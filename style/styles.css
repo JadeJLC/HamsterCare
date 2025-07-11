@@ -1,0 +1,56 @@
+.HAMbloc {
+    margin:auto;
+    width:90%;
+    max-width:1250px;
+    min-height:600px;
+    border-radius:10px;
+}
+
+.HAMneeds {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.HAMneeds > div {
+    width:150px;
+    height:20px;
+    margin-right:10px;
+    flex-shrink:0;
+    background:lightgray;
+    position:relative;
+    padding:1px;
+    border-radius:5px;
+    overflow:hidden;
+}
+
+.HAMneeds div div {
+    height:20px;
+    border-radius:5px;
+    position:absolute;
+    top:1px;left:1px;
+    overflow:visible;
+    font-size:0.7em;
+    line-height:20px;
+    text-indent:10px;
+    white-space:nowrap;
+}
+
+
+/* Classes d'affichage de la gamelle à implémenter */
+
+.empty {
+    background:red;
+}
+
+.almost-empty {
+    background:orange;
+}
+
+.half-full {
+    background:yellow;
+}
+
+.full {
+    background:green;
+}
