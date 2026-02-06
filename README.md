@@ -136,9 +136,8 @@ Ce projet permet de développer des compétences dans :
 ## Améliorations futures
 
 - [ ] Animations
-- [ ] Système de récompenses et déblocables
 - [ ] Différents hamsters avec des caractéristiques uniques
-- [ ] Événements aléatoires (maladie, bonheur, etc.)
+- [ ] Événements aléatoires
 - [ ] Sons et musique d'ambiance
 - [ ] Statistiques de survie et historique
 - [ ] Partage de records sur les réseaux sociaux
